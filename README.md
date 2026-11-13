@@ -1,6 +1,6 @@
 # How POWER IN THE NUMBERS Can Reduce Robotics Information Costs
 
-**Author:** Aaron Bailot  
+**Author:** Aaron Bailot
 **ORCID:** [0009-0006-2810-6829](https://orcid.org/0009-0006-2810-6829)  
 **Organization:** POWER IN THE NUMBERS (PITN)  
 **Publication Date:** November 13, 2026
