@@ -1,8 +1,11 @@
 # How POWER IN THE NUMBERS Can Reduce Robotics Information Costs
 
 **Author:** Aaron Bailot
-**ORCID:** [0009-0006-2810-6829](https://orcid.org/0009-0006-2810-6829)  
-**Organization:** POWER IN THE NUMBERS (PITN)  
+
+**ORCID:** [0009-0006-2810-6829](https://orcid.org/0009-0006-2810-6829)
+
+**Organization:** POWER IN THE NUMBERS (PITN)
+
 **Publication Date:** November 13, 2026
 
 ## Read the Research Publication
@@ -38,6 +41,10 @@ The objective is to connect existing information systems and records to the same
 
 **Publication file:** [PITN_savings.pdf](PITN_savings.pdf)
 
+**GitHub release:** [Version 1.0.0](https://github.com/PITN374/PITN-ROBOTICS-INFORMATION-COSTS/releases/tag/v1.0.0)
+
+**Zenodo DOI:** [10.5281/zenodo.24201308](https://doi.org/10.5281/zenodo.24201308)
+
 ## Related PITN Resources
 
 - [POWER IN THE NUMBERS](https://www.powerinthenumbers.ai/)
@@ -48,13 +55,16 @@ The objective is to connect existing information systems and records to the same
 
 ## Publication and Citation
 
-This repository provides the versioned research publication and its associated documentation.
+This repository provides the versioned research publication and its associated documentation. The Version 1.0.0 release is archived through Zenodo.
 
-A permanent DOI will be added following publication and archival through Zenodo.
+**Suggested citation:**
+
+Bailot, A. (2026). *How POWER IN THE NUMBERS Can Reduce Robotics Information Costs* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.24201308
 
 ## Author
 
-**Aaron Bailot**  
+**Aaron Bailot**
+
 ORCID: [https://orcid.org/0009-0006-2810-6829](https://orcid.org/0009-0006-2810-6829)
 
 POWER IN THE NUMBERS (PITN)
