@@ -5,21 +5,38 @@
 **Organization:** POWER IN THE NUMBERS (PITN)  
 **Publication Date:** November 13, 2026
 
-## Research Publication
+## Read the Research Publication
 
-This repository contains the research publication examining how POWER IN THE NUMBERS (PITN) can reduce information-related operating costs across robotics manufacturing, procurement, engineering, assembly, and lifecycle management.
+**How POWER IN THE NUMBERS Can Reduce Robotics Information Costs**
 
-The research examines how persistent physical component identity and connected information relationships can help manufacturers reduce fragmented records, repetitive information retrieval, reconciliation work, identification errors, and lifecycle information gaps.
+[**OPEN THE COMPLETE RESEARCH PUBLICATION (PDF)**](PITN_savings.pdf)
 
-## Publication
+This research examines how persistent physical component identity and connected robotics information can reduce information-related operating costs across robotics manufacturing, procurement, engineering, assembly, and lifecycle management.
+
+## About This Research
+
+This publication examines how POWER IN THE NUMBERS (PITN) can help address fragmented information across robotics manufacturing and the broader component lifecycle.
+
+The research explores how persistent physical component identity and connected information relationships can help manufacturers reduce:
+
+- Fragmented component and product records.
+- Repetitive information retrieval.
+- Manual data reconciliation.
+- Component identification errors.
+- Engineering and procurement information gaps.
+- Assembly and lifecycle information gaps.
+
+The objective is to connect existing information systems and records to the same physical components without requiring manufacturers to replace their established enterprise systems.
+
+## Publication Details
 
 **Title:** How POWER IN THE NUMBERS Can Reduce Robotics Information Costs
 
+**Author:** Aaron Bailot
+
 **Format:** PDF
 
-The complete publication is available in this repository:
-
-`How_POWER_IN_THE_NUMBERS_Can_Reduce_Robotics_Information_Costs.pdf`
+**Publication file:** [PITN_savings.pdf](PITN_savings.pdf)
 
 ## Related PITN Resources
 
