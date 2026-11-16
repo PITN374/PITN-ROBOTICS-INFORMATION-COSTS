@@ -12,6 +12,9 @@
 ## Read the Original Research Publication
 
 **How POWER IN THE NUMBERS Can Reduce Robotics Information Costs**
+### Humanoid Robotics Information Cost Savings
+
+[PITN 34-Namespace Humanoid Robotics Information Cost Savings](PITN_34_NAMESPACE_HUMANOID_ROBOTICS_INFORMATION_COST_SAVINGS.md)
 
 [**OPEN THE COMPLETE ORIGINAL RESEARCH PUBLICATION (PDF)**](PITN_savings.pdf)
 
