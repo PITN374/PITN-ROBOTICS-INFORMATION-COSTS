@@ -13,11 +13,17 @@
 
 **How POWER IN THE NUMBERS Can Reduce Robotics Information Costs**
 
-[**OPEN THE COMPLETE RESEARCH PUBLICATION (PDF)**](PITN_savings.pdf)
+[**OPEN THE COMPLETE ORIGINAL RESEARCH PUBLICATION (PDF)**](PITN_savings.pdf)
 
 The original Version 1.0.0 research publication documents PITN's foundational 27-namespace robotics component identity architecture and examines how persistent physical component identity and connected robotics information can reduce information-related operating costs across robotics manufacturing, engineering, procurement, assembly, and lifecycle management.
 
-**Publication scope:** The original Version 1.0.0 publication describes the foundational 27-namespace architecture. The 34-namespace architecture presented in this README represents PITN's subsequent expansion of that framework. The expanded namespace architecture is not being represented as part of the original archived PDF.
+**Original publication scope:** The original Version 1.0.0 publication describes the foundational 27-namespace architecture. The 34-namespace architecture presented in this README represents PITN's subsequent expansion of that framework. The expanded architecture is not being represented as part of the original archived PDF.
+
+## Read the Expanded Technical Architecture
+
+[**PITN 34-Namespace Robotics Information Cost Architecture**](PITN_34_NAMESPACE_ROBOTICS_INFORMATION_COST_ARCHITECTURE.md)
+
+This companion document provides the complete expanded namespace register, component classifications, manufacturer applications, illustrative humanoid BOM hierarchy, persistent identity examples, technical relationships, and economic assessment.
 
 ---
 
@@ -288,11 +294,11 @@ Through PITN and its ROBOPARTS.ai application, the framework demonstrates an app
 
 **Zenodo DOI:** [10.5281/zenodo.24201308](https://doi.org/10.5281/zenodo.24201308)
 
-The DOI and release above refer to the original archived Version 1.0.0 publication documenting the foundational 27-namespace architecture. The expanded 34-namespace architecture is presented separately in this README.
+The DOI and release above refer to the original archived Version 1.0.0 publication documenting the foundational 27-namespace architecture. The expanded 34-namespace architecture is presented separately in this README and its companion technical document.
 
 ## Related PITN Resources
 
-- [POWER IN THE NUMBERS](https://www.powerinthenumbers.ai/)
+- [POWER IN THE NUMBERS](https://powerinthenumbers.ai/)
 - [PITN Robotics Demonstration](https://pitn.ai/#demo)
 - [PITN Identity Demonstration](https://powerinthenumbers.ai/identity#scan)
 - [Factory01 Humanoid Passport Demonstration](https://powerinthenumbers.ai/passport/factory01)
@@ -306,5 +312,3 @@ Bailot, A. (2026). *How POWER IN THE NUMBERS Can Reduce Robotics Information Cos
 ## Author
 
 **Aaron Bailot**
-
-ORCID: https://orcid.org/0009-0006-2810-6829
