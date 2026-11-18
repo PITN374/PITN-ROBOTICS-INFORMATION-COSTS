@@ -954,5 +954,3 @@ PITN. Production integration, data access, security, and operational acceptance\
 must be defined and validated in the manufacturer's environment.\
 
 END OF STUDY
-
-That is the **full document**, including all 18 sections, calculations, tables, graph, pilot framework, qualifications, and conclusion—ready to copy into your `.txt` file or GitHub repository.
